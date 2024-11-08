@@ -1,4 +1,4 @@
 a=9
 b=18
-c=a-b
+c=a/b
 print(c)
